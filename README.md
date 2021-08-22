@@ -1,5 +1,8 @@
-# DVSAQueueNotifs
+# DVSAQueueNotifs - No longer working 
+
+This codebase is no longer working due to the latest update from the dvsa website where it uses imperva cdn and recaptcha.
  DVSA Car Test Queue Notifications
+
 
 
 This project was/is to be used when joining the queue for booking a driving practical test through DVSA.
